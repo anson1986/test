@@ -1,0 +1,6 @@
+framework module Pods_BicycleFans {
+  umbrella header "Pods-BicycleFans-umbrella.h"
+
+  export *
+  module * { export * }
+}
